@@ -1,0 +1,298 @@
+ .nav1{
+   background-color: white;
+   color: blue;
+   display: flex;
+   /* justify-content:left; */
+   align-items: center;
+   /* border: 1px solid rgb(208, 206, 206); */
+   border-bottom: 1px solid rgb(208, 206, 206);
+   justify-content: space-between;
+   padding-right: 20px;
+   height: 90px;
+   
+   
+ }
+ .log{
+   margin-right: 1px; 
+
+
+ }
+ .nav2{
+   /* border: 1px solid red; */
+   display: flex !important;
+   position: relative;
+   justify-content: space-between !important;
+   align-items: center;
+   /* gap: 40; */
+   /* margin-right: 100; */
+   width: 750px;
+   height: 100px;
+   margin: 0 0 0 20;
+   
+ }
+ 
+ .links{
+   list-style-type: none;
+   font-weight: bold;
+   color: rgb(6, 6, 203);
+   display: flex;
+   position: relative;
+   /* justify-content: space-evenly !important; */
+   
+ }
+ #slle{
+   border: none !important;
+ /* font-size: 20px; */
+ font-weight: bold;
+ color: blue;
+ height: 30px;
+ 
+ }
+ .studytobecome {
+   color: #3c276c;
+   font-size: 80px;
+   margin-left: 50px;
+   margin-bottom: 10px;
+ }
+ .worldclass {
+   margin-left: 50px;
+   font-size: 15px;
+ }
+ .main {
+ justify-content: space-around;
+ }
+.maintext {
+   padding: 50px 40px;
+}
+.model {
+   margin-left: 700px;
+   margin-top: -520PX;
+   margin-bottom: 30PX;
+   border-bottom-left-radius: 100px;
+   border-top-right-radius: 30px;
+}
+.button {
+   background-color: blue;
+   width: 160px;
+   height: 80px ;
+   border: none ;
+   border-radius: 30px;
+   margin-left: 50px;
+   cursor: pointer;
+}
+button a {
+   color: white;
+   text-decoration: none;
+}
+.GLANCE {
+   background: url(img/);
+}
+.glancetext {
+   width: 50%;
+   padding: 35px;
+   float: right;
+   font-size: 19px;
+}
+.learnmore {
+   background-color: transparent;
+   padding: 15px 20px;
+   border: 2px solid white;
+   color: white;
+   font-size: 18px;
+}
+.alumni {
+   margin-top: 100px;
+   margin-left: 80px;
+   font-size: 20px;
+}
+.work1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 30px;
+   margin-bottom: 30px;
+}
+.work2 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 30px;
+   margin-bottom: 30px;
+}
+.work3 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 30px;
+   margin-bottom: 30px;
+}
+.africatech {
+   background-color: rgba(0,178,255,0.06);
+   margin-top: 50px;
+   margin-bottom: 10px;
+}
+.africa {
+   margin-left: 650px;
+   margin-top: -500px;
+   font-size: 60px;
+}
+.focus {
+   margin-left: 650px;
+   font-size: 20px;
+}
+.courses {
+   margin-top: 100px;
+   margin-left: 80px;
+}
+.look {
+   margin-left: 80px;
+}
+.ViewallCourses a {
+   margin-left: 80px;
+}
+ #rcorners1 {
+    border-radius: 30px;
+    background-color:#d5eaf3;
+    border: 1px none;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    width: 300px;
+    height: 30;
+    border-radius: 50px;
+box-shadow:  20px 20px 60px #c4c8c2,
+             -20px -20px 60px #ffffff;
+  }
+  #rcorners2 {
+    border-radius: 30px;
+    background-color: #eeefbd;
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    width: 300px;
+    height: 30;
+    position: relative;
+    top: -150PX;
+    border-radius: 50px;
+box-shadow:  20px 20px 60px #d1b8b4,
+             -20px -20px 60px #ffffff;
+  }
+ #rcorners3 {
+    border-radius: 30px;
+    background-color: #e0d5c0;
+    border: 1px none;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    width: 300px;
+    height: 30;
+    border-radius: 50px;
+box-shadow:  20px 20px 60px #afc1b3,
+             -20px -20px 60px #fbffff;
+ }
+ #rcorners4 {
+    border-radius: 30px;
+    background-color: #dfd5e8;
+    border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    width: 300px;
+    height: 30;
+    position: relative;
+    top: -150px;
+    border-radius: 50px;
+box-shadow:  20px 20px 60px #d1bcb8,
+             -20px -20px 60px #ffffff;
+ }
+ #rcorners5 {
+    border-radius:1px;
+    background-color: #ffffff;
+    border: 1px solid lightslategrey; 
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 200px;
+    height: 20;
+ }
+ #rcorners6 {
+    border-radius: 1px;
+    background-color: #ffffff;
+    border: 1px solid lightslategray ;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 200px;
+    height: 20;
+ }
+ #rcorners7 {
+    border-radius: 1px;
+    background-color: #ffffff;
+    border: 1px solid lightslategray;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 200px;
+    height: 20;
+ }
+ div {
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+ }
+ .software {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 250px;
+   gap: 50px;
+ }
+ .product {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top:10px;
+   gap: 50px;
+ }
+ .College {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top:10px;
+   gap: 30px;
+   background-color: #f0f1ff;
+ }
+ .Whystudy1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10px;
+   gap: 30px;
+ }
+ .whystudy2 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10px;
+   gap: 30px;
+ }
+ .whystudy3 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10px;
+   gap: 30px;
+ }
+ .allwhy {
+   background-color: #e8e8e9;
+ }
+    
